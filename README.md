@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-(https://holopin.me/aniruddhadwivedi07)
+https://holopin.me/aniruddhadwivedi07
 <!--
 **Aniruddhadwivedi07/Aniruddhadwivedi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
