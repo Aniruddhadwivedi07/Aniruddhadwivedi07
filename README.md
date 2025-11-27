@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-https://holopin.me/aniruddhadwivedi07
-<!--
-**Aniruddhadwivedi07/Aniruddhadwivedi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Screenshot 2025-11-27 at 12 16 10 PM](https://github.com/user-attachments/assets/305488dc-1b5f-41ae-b668-55f339d34017)
 
+https://holopin.me/aniruddhadwivedi07
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
